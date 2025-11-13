@@ -1,0 +1,20 @@
+2025-11-13 17:55:01 - encoder_tracker - INFO - Logging to file: encoder_log_20251113_175501.log
+2025-11-13 17:55:01 - encoder_tracker - INFO - ============================================================
+2025-11-13 17:55:01 - encoder_tracker - INFO - RC Car Encoder Distance Tracker
+2025-11-13 17:55:01 - encoder_tracker - INFO - ============================================================
+2025-11-13 17:55:01 - encoder_tracker - INFO - Configuration: PPR=48, Wheel=60mm
+2025-11-13 17:55:01 - encoder_tracker - INFO - GPIO Pins: A=17, B=27, No Index
+2025-11-13 17:55:01 - encoder_tracker - INFO - ============================================================
+2025-11-13 17:55:01 - encoder_tracker - INFO - 
+2025-11-13 17:55:01 - encoder_tracker - INFO - Options:
+2025-11-13 17:55:01 - encoder_tracker - INFO -   1. Run diagnostic test (recommended first time)
+2025-11-13 17:55:01 - encoder_tracker - INFO -   2. Start normal tracking
+2025-11-13 17:55:01 - encoder_tracker - INFO - 
+2025-11-13 17:55:03 - encoder_tracker - INFO - Encoder initialized: PPR=48, Wheel=60mm, No Index, Counts/Rev=192, mm/count=0.9817
+2025-11-13 17:55:03 - encoder_tracker - INFO - 
+2025-11-13 17:55:03 - encoder_tracker - INFO - ============================================================
+2025-11-13 17:55:03 - encoder_tracker - INFO - DIAGNOSTIC MODE
+2025-11-13 17:55:03 - encoder_tracker - INFO - ============================================================
+2025-11-13 17:55:03 - encoder_tracker - INFO - Please rotate the wheel SLOWLY in ONE direction
+2025-11-13 17:55:03 - encoder_tracker - INFO - Watching for 10 seconds...
+2025-11-13 17:55:03 - encoder_tracker - INFO - 

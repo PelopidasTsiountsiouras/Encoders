@@ -52,6 +52,8 @@ class EncoderTracker:
         # Index pulse tracking
         self.index_count = 0
         self.last_index_time = 0
+        self.index_positions = []  # Track encoder count at each index pulse
+        self.counts_per_index = []  # Track counts between index pulses
         
         # Speed tracking with smoothing
         self.speed_history = deque(maxlen=5)
@@ -320,7 +322,7 @@ def main():
     # Configuration
     ENCODER_PIN_A = 17
     ENCODER_PIN_B = 27
-    ENCODER_PIN_INDEX = None  # Set to GPIO pin number if using index
+    ENCODER_PIN_INDEX = 22  # Set to your Index/X channel GPIO pin (or None if not using)
     ENCODER_PPR = 48
     WHEEL_DIAMETER_MM = 60
     
