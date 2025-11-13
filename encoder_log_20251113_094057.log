@@ -1,0 +1,73 @@
+2025-11-13 09:40:57 - encoder_tracker - INFO - Logging to file: encoder_log_20251113_094057.log
+2025-11-13 09:40:57 - encoder_tracker - INFO - ============================================================
+2025-11-13 09:40:57 - encoder_tracker - INFO - RC Car Encoder Distance Tracker Started
+2025-11-13 09:40:57 - encoder_tracker - INFO - ============================================================
+2025-11-13 09:40:57 - encoder_tracker - INFO - Configuration: PPR=48, Wheel Diameter=60mm
+2025-11-13 09:40:57 - encoder_tracker - INFO - GPIO Pins: A=17, B=27
+2025-11-13 09:40:57 - encoder_tracker - INFO - ============================================================
+2025-11-13 09:40:57 - encoder_tracker - INFO - Rotate the wheel to see measurements...
+2025-11-13 09:40:57 - encoder_tracker - INFO - Press Ctrl+C to exit
+2025-11-13 09:40:57 - encoder_tracker - INFO - 
+2025-11-13 09:40:57 - encoder_tracker - INFO - Encoder initialized: PPR=48, Wheel=60mm, No Index, Counts/Rev=192, mm/count=0.9817
+2025-11-13 09:40:58 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:   0.00cm | Speed:   0.0 cm/s
+2025-11-13 09:40:59 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:   0.00cm | Speed:   0.0 cm/s
+2025-11-13 09:41:00 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:   0.00cm | Speed:   0.0 cm/s
+2025-11-13 09:41:01 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:   0.00cm | Speed:   0.0 cm/s
+2025-11-13 09:41:02 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:   0.00cm | Speed:   0.0 cm/s
+2025-11-13 09:41:03 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:   0.00cm | Speed:   0.0 cm/s
+2025-11-13 09:41:04 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:   0.00cm | Speed:   0.0 cm/s
+2025-11-13 09:41:05 - encoder_tracker - INFO - Stats - Count:      3 | Rotations:    0.02 | Distance:   0.29cm | Speed:   0.0 cm/s
+2025-11-13 09:41:06 - encoder_tracker - INFO - Stats - Count:     54 | Rotations:    0.28 | Distance:   5.30cm | Speed:  62.8 cm/s
+2025-11-13 09:41:07 - encoder_tracker - INFO - Stats - Count:    360 | Rotations:    1.88 | Distance:  35.34cm | Speed: -31.4 cm/s
+2025-11-13 09:41:08 - encoder_tracker - INFO - Stats - Count:    208 | Rotations:    1.08 | Distance:  20.42cm | Speed:  40.2 cm/s
+2025-11-13 09:41:09 - encoder_tracker - INFO - Stats - Count:    458 | Rotations:    2.39 | Distance:  44.96cm | Speed:  15.7 cm/s
+2025-11-13 09:41:10 - encoder_tracker - INFO - Stats - Count:    460 | Rotations:    2.40 | Distance:  45.16cm | Speed:   0.0 cm/s
+2025-11-13 09:41:11 - encoder_tracker - INFO - Stats - Count:    460 | Rotations:    2.40 | Distance:  45.16cm | Speed:   0.0 cm/s
+2025-11-13 09:41:12 - encoder_tracker - INFO - Stats - Count:    460 | Rotations:    2.40 | Distance:  45.16cm | Speed:   0.0 cm/s
+2025-11-13 09:41:13 - encoder_tracker - INFO - Stats - Count:    460 | Rotations:    2.40 | Distance:  45.16cm | Speed:   0.0 cm/s
+2025-11-13 09:41:14 - encoder_tracker - INFO - Stats - Count:    460 | Rotations:    2.40 | Distance:  45.16cm | Speed:   0.0 cm/s
+2025-11-13 09:41:15 - encoder_tracker - INFO - Stats - Count:    460 | Rotations:    2.40 | Distance:  45.16cm | Speed:   0.0 cm/s
+2025-11-13 09:41:16 - encoder_tracker - INFO - Stats - Count:    460 | Rotations:    2.40 | Distance:  45.16cm | Speed:   0.0 cm/s
+2025-11-13 09:41:17 - encoder_tracker - INFO - Stats - Count:    460 | Rotations:    2.40 | Distance:  45.16cm | Speed:   0.0 cm/s
+2025-11-13 09:41:18 - encoder_tracker - INFO - Stats - Count:    460 | Rotations:    2.40 | Distance:  45.16cm | Speed:   0.0 cm/s
+2025-11-13 09:41:19 - encoder_tracker - INFO - Stats - Count:    462 | Rotations:    2.41 | Distance:  45.36cm | Speed:   0.0 cm/s
+2025-11-13 09:41:20 - encoder_tracker - INFO - Stats - Count:    462 | Rotations:    2.41 | Distance:  45.36cm | Speed:   0.0 cm/s
+2025-11-13 09:41:21 - encoder_tracker - INFO - Stats - Count:    462 | Rotations:    2.41 | Distance:  45.36cm | Speed:   0.0 cm/s
+2025-11-13 09:41:22 - encoder_tracker - INFO - Stats - Count:    462 | Rotations:    2.41 | Distance:  45.36cm | Speed:   0.0 cm/s
+2025-11-13 09:41:23 - encoder_tracker - INFO - Stats - Count:    475 | Rotations:    2.47 | Distance:  46.63cm | Speed:  12.8 cm/s
+2025-11-13 09:41:24 - encoder_tracker - INFO - Stats - Count:   1718 | Rotations:    8.95 | Distance: 168.66cm | Speed: 235.4 cm/s
+2025-11-13 09:41:25 - encoder_tracker - INFO - Stats - Count:   1999 | Rotations:   10.41 | Distance: 196.25cm | Speed:   0.0 cm/s
+2025-11-13 09:41:26 - encoder_tracker - INFO - Stats - Count:   2023 | Rotations:   10.54 | Distance: 198.61cm | Speed: -14.7 cm/s
+2025-11-13 09:41:27 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:28 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:29 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:30 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:31 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:32 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:33 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:34 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:35 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:36 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:37 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:38 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:39 - encoder_tracker - INFO - Stats - Count:   2172 | Rotations:   11.31 | Distance: 213.24cm | Speed:   0.0 cm/s
+2025-11-13 09:41:40 - encoder_tracker - INFO - Stats - Count:   2171 | Rotations:   11.31 | Distance: 213.14cm | Speed:  -1.0 cm/s
+2025-11-13 09:41:41 - encoder_tracker - INFO - Stats - Count:   1065 | Rotations:    5.55 | Distance: 104.56cm | Speed: -190.3 cm/s
+2025-11-13 09:41:42 - encoder_tracker - INFO - Stats - Count:    757 | Rotations:    3.94 | Distance:  74.32cm | Speed:  26.5 cm/s
+2025-11-13 09:41:43 - encoder_tracker - INFO - Stats - Count:    653 | Rotations:    3.40 | Distance:  64.11cm | Speed:   0.0 cm/s
+2025-11-13 09:41:44 - encoder_tracker - INFO - Stats - Count:    653 | Rotations:    3.40 | Distance:  64.11cm | Speed:   0.0 cm/s
+2025-11-13 09:41:45 - encoder_tracker - INFO - Stats - Count:    653 | Rotations:    3.40 | Distance:  64.11cm | Speed:   0.0 cm/s
+2025-11-13 09:41:46 - encoder_tracker - INFO - Stats - Count:    654 | Rotations:    3.41 | Distance:  64.21cm | Speed:   0.0 cm/s
+2025-11-13 09:41:47 - encoder_tracker - INFO - Stats - Count:    654 | Rotations:    3.41 | Distance:  64.21cm | Speed:   0.0 cm/s
+2025-11-13 09:41:48 - encoder_tracker - INFO - Stats - Count:    654 | Rotations:    3.41 | Distance:  64.21cm | Speed:   0.0 cm/s
+2025-11-13 09:41:49 - encoder_tracker - INFO - Stats - Count:    654 | Rotations:    3.41 | Distance:  64.21cm | Speed:   0.0 cm/s
+2025-11-13 09:41:50 - encoder_tracker - INFO - 
+2025-11-13 09:41:50 - encoder_tracker - INFO - ============================================================
+2025-11-13 09:41:50 - encoder_tracker - INFO - Session Ended - Final Statistics
+2025-11-13 09:41:50 - encoder_tracker - INFO - ============================================================
+2025-11-13 09:41:50 - encoder_tracker - INFO - Total Count: 653
+2025-11-13 09:41:50 - encoder_tracker - INFO - Total Rotations: 3.40
+2025-11-13 09:41:50 - encoder_tracker - INFO - Total Distance: 64.108 centimeters (641.1 mm)
+2025-11-13 09:41:50 - encoder_tracker - INFO - ============================================================
+2025-11-13 09:41:50 - encoder_tracker - INFO - Cleaning up GPIO
+2025-11-13 09:41:50 - encoder_tracker - INFO - GPIO cleaned up. Goodbye!
