@@ -44,7 +44,7 @@ class EncoderTracker:
         
         # Encoder state
         self.encoder_count = 0
-        self.lock = Lock()
+        # self.lock = Lock()
         
         # State tracking for proper quadrature
         self.state = 0  # Current state (0-3)
@@ -107,69 +107,69 @@ class EncoderTracker:
         # Calculate new state
         new_state = (a << 1) | b
         
-        with self.lock:
-            old_state = self.state
-            
-            # Skip if no state change (debouncing)
-            if new_state == old_state:
-                return
-            
-            self.total_transitions += 1
-            
-            # Quadrature encoder state machine
-            # States: 00(0), 01(1), 11(3), 10(2)
-            # CW:  0->2->3->1->0
-            # CCW: 0->1->3->2->0
-            
-            # Create lookup for direction based on state transitions
-            # Key: (old_state << 2) | new_state
-            transition = (old_state << 2) | new_state
-            
-            # Valid forward transitions (CW)
-            if transition in [0b0010, 0b1011, 0b1101, 0b0100]:  # 0->2, 2->3, 3->1, 1->0
-                self.encoder_count += 1
-            # Valid backward transitions (CCW)  
-            elif transition in [0b0001, 0b0111, 0b1110, 0b1000]:  # 0->1, 1->3, 3->2, 2->0
-                self.encoder_count -= 1
-            else:
-                # Invalid transition (noise or missed pulse)
-                self.invalid_transitions += 1
-                self.logger.debug(f"Invalid transition: {old_state:02b} -> {new_state:02b}")
-            
-            self.state = new_state
+        # with self.lock:
+        old_state = self.state
+        
+        # Skip if no state change (debouncing)
+        if new_state == old_state:
+            return
+        
+        self.total_transitions += 1
+        
+        # Quadrature encoder state machine
+        # States: 00(0), 01(1), 11(3), 10(2)
+        # CW:  0->2->3->1->0
+        # CCW: 0->1->3->2->0
+        
+        # Create lookup for direction based on state transitions
+        # Key: (old_state << 2) | new_state
+        transition = (old_state << 2) | new_state
+        
+        # Valid forward transitions (CW)
+        if transition in [0b0010, 0b1011, 0b1101, 0b0100]:  # 0->2, 2->3, 3->1, 1->0
+            self.encoder_count += 1
+        # Valid backward transitions (CCW)  
+        elif transition in [0b0001, 0b0111, 0b1110, 0b1000]:  # 0->1, 1->3, 3->2, 2->0
+            self.encoder_count -= 1
+        else:
+            # Invalid transition (noise or missed pulse)
+            self.invalid_transitions += 1
+            self.logger.debug(f"Invalid transition: {old_state:02b} -> {new_state:02b}")
+        
+        self.state = new_state
     
     def _index_callback(self, channel):
         """Callback for index/Z pulse"""
-        with self.lock:
-            current_time = time.time()
-            self.index_count += 1
-            
-            if self.last_index_time > 0:
-                time_diff = current_time - self.last_index_time
-                rpm = 60.0 / time_diff if time_diff > 0 else 0
-                self.logger.debug(f"Index pulse #{self.index_count}, RPM: {rpm:.1f}")
-            
-            self.last_index_time = current_time
+        # with self.lock:
+        current_time = time.time()
+        self.index_count += 1
+        
+        if self.last_index_time > 0:
+            time_diff = current_time - self.last_index_time
+            rpm = 60.0 / time_diff if time_diff > 0 else 0
+            self.logger.debug(f"Index pulse #{self.index_count}, RPM: {rpm:.1f}")
+        
+        self.last_index_time = current_time
     
     def get_count(self):
         """Get current encoder count"""
-        with self.lock:
-            return self.encoder_count
+        # with self.lock:
+        return self.encoder_count
     
     def get_index_count(self):
         """Get number of complete revolutions detected by index pulse"""
-        with self.lock:
-            return self.index_count
+        # with self.lock:
+        return self.index_count
     
     def reset_count(self):
         """Reset encoder count to zero"""
-        with self.lock:
-            old_count = self.encoder_count
-            self.encoder_count = 0
-            self.last_count = 0
-            self.last_time = time.time()
-            self.speed_history.clear()
-            self.logger.info(f"Encoder reset (previous count: {old_count})")
+        # with self.lock:
+        old_count = self.encoder_count
+        self.encoder_count = 0
+        self.last_count = 0
+        self.last_time = time.time()
+        self.speed_history.clear()
+        self.logger.info(f"Encoder reset (previous count: {old_count})")
     
     def get_rotations(self):
         """Get number of wheel rotations"""
@@ -225,12 +225,12 @@ class EncoderTracker:
     
     def get_diagnostics(self):
         """Get diagnostic information"""
-        with self.lock:
-            return {
-                'total_transitions': self.total_transitions,
-                'invalid_transitions': self.invalid_transitions,
-                'error_rate': (self.invalid_transitions / max(1, self.total_transitions)) * 100
-            }
+        # with self.lock:
+        return {
+            'total_transitions': self.total_transitions,
+            'invalid_transitions': self.invalid_transitions,
+            'error_rate': (self.invalid_transitions / max(1, self.total_transitions)) * 100
+        }
     
     def cleanup(self):
         """Cleanup GPIO"""
