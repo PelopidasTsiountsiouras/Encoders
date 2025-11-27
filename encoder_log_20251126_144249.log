@@ -1,0 +1,17 @@
+2025-11-26 14:42:49 - encoder_tracker - INFO - Logging to file: encoder_log_20251126_144249.log
+2025-11-26 14:42:49 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:42:49 - encoder_tracker - INFO - RC Car Encoder Distance Tracker
+2025-11-26 14:42:49 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:42:49 - encoder_tracker - INFO - Configuration: Wheel=60mm
+2025-11-26 14:42:49 - encoder_tracker - INFO - GPIO Pins: A=17, B=27, Index=22
+2025-11-26 14:42:49 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:42:49 - encoder_tracker - INFO - Encoder initialized: Wheel=60mm, Index=GPIO22
+2025-11-26 14:42:49 - encoder_tracker - INFO - 
+2025-11-26 14:42:49 - encoder_tracker - INFO - ⚠️  CALIBRATION REQUIRED
+2025-11-26 14:42:49 - encoder_tracker - INFO - This encoder needs to be calibrated before use.
+2025-11-26 14:42:49 - encoder_tracker - INFO - 
+2025-11-26 14:42:49 - encoder_tracker - INFO - Starting normal tracking mode...
+2025-11-26 14:42:49 - encoder_tracker - INFO - Press Ctrl+C to exit
+2025-11-26 14:42:49 - encoder_tracker - INFO - 
+2025-11-26 14:42:49 - encoder_tracker - INFO - Cleaning up GPIO
+2025-11-26 14:42:49 - encoder_tracker - INFO - GPIO cleaned up. Goodbye!

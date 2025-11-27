@@ -1,0 +1,54 @@
+2025-11-26 15:01:03 - encoder_tracker - INFO - Logging to file: encoder_log_20251126_150103.log
+2025-11-26 15:01:03 - encoder_tracker - INFO - ============================================================
+2025-11-26 15:01:03 - encoder_tracker - INFO - RC Car Encoder Distance Tracker - DEBUG VERSION
+2025-11-26 15:01:03 - encoder_tracker - INFO - ============================================================
+2025-11-26 15:01:03 - encoder_tracker - INFO - Configuration: PPR=48, Wheel=60mm
+2025-11-26 15:01:03 - encoder_tracker - INFO - GPIO Pins: A=17, B=27, Index=22
+2025-11-26 15:01:03 - encoder_tracker - INFO - ============================================================
+2025-11-26 15:01:03 - encoder_tracker - INFO - 
+2025-11-26 15:01:03 - encoder_tracker - INFO - Choose mode:
+2025-11-26 15:01:03 - encoder_tracker - INFO -   1. Raw signal test (watch pin changes)
+2025-11-26 15:01:03 - encoder_tracker - INFO -   2. Normal tracking
+2025-11-26 15:01:03 - encoder_tracker - INFO - 
+2025-11-26 15:01:05 - encoder_tracker - INFO - Encoder initialized: PPR=48, Wheel=60mm, Index=GPIO22, Counts/Rev=192, mm/count=0.9817
+2025-11-26 15:01:05 - encoder_tracker - INFO - Starting tracking mode...
+2025-11-26 15:01:05 - encoder_tracker - INFO - Press Ctrl+C to exit
+2025-11-26 15:01:05 - encoder_tracker - INFO - 
+2025-11-26 15:01:06 - encoder_tracker - INFO - Count:      0 | Rot:    0.00 | Dist:    0.00cm | Speed:    0.0cm/s | Index: 0
+2025-11-26 15:01:07 - encoder_tracker - INFO - Count:      0 | Rot:    0.00 | Dist:    0.00cm | Speed:    0.0cm/s | Index: 0
+2025-11-26 15:01:08 - encoder_tracker - INFO - Count:      0 | Rot:    0.00 | Dist:    0.00cm | Speed:    0.0cm/s | Index: 0
+2025-11-26 15:01:09 - encoder_tracker - INFO - Count:      0 | Rot:    0.00 | Dist:    0.00cm | Speed:    0.0cm/s | Index: 0
+2025-11-26 15:01:10 - encoder_tracker - INFO - Signal check - A transitions: 0, B transitions: 0, Total: 0
+2025-11-26 15:01:10 - encoder_tracker - WARNING - ⚠️  NO ENCODER SIGNALS DETECTED! Check wiring and power.
+2025-11-26 15:01:10 - encoder_tracker - INFO - Count:      0 | Rot:    0.00 | Dist:    0.00cm | Speed:    0.0cm/s | Index: 0
+2025-11-26 15:01:11 - encoder_tracker - INFO - Count:     -3 | Rot:   -0.02 | Dist:   -0.29cm | Speed:   -8.2cm/s | Index: 0
+2025-11-26 15:01:12 - encoder_tracker - INFO - Count:     -3 | Rot:   -0.02 | Dist:   -0.29cm | Speed:    0.0cm/s | Index: 1
+2025-11-26 15:01:13 - encoder_tracker - INFO - Count:     -5 | Rot:   -0.03 | Dist:   -0.49cm | Speed:   -0.8cm/s | Index: 1
+2025-11-26 15:01:14 - encoder_tracker - INFO - Count:     39 | Rot:    0.20 | Dist:    3.83cm | Speed:   -6.1cm/s | Index: 1
+2025-11-26 15:01:15 - encoder_tracker - INFO - Signal check - A transitions: 349, B transitions: 352, Total: 701
+2025-11-26 15:01:15 - encoder_tracker - INFO - Count:     37 | Rot:    0.19 | Dist:    3.63cm | Speed:    0.0cm/s | Index: 1
+2025-11-26 15:01:16 - encoder_tracker - INFO - Count:     36 | Rot:    0.19 | Dist:    3.53cm | Speed:    0.0cm/s | Index: 1
+2025-11-26 15:01:17 - encoder_tracker - INFO - Count:     32 | Rot:    0.17 | Dist:    3.14cm | Speed:   -0.6cm/s | Index: 1
+2025-11-26 15:01:18 - encoder_tracker - INFO - Count:     34 | Rot:    0.18 | Dist:    3.34cm | Speed:    0.0cm/s | Index: 2
+2025-11-26 15:01:19 - encoder_tracker - INFO - Count:     34 | Rot:    0.18 | Dist:    3.34cm | Speed:    0.0cm/s | Index: 2
+2025-11-26 15:01:20 - encoder_tracker - INFO - Signal check - A transitions: 437, B transitions: 441, Total: 878
+2025-11-26 15:01:20 - encoder_tracker - INFO - Count:     34 | Rot:    0.18 | Dist:    3.34cm | Speed:    0.0cm/s | Index: 3
+2025-11-26 15:01:21 - encoder_tracker - INFO - Count:     34 | Rot:    0.18 | Dist:    3.34cm | Speed:    0.0cm/s | Index: 4
+2025-11-26 15:01:22 - encoder_tracker - INFO - Count:      7 | Rot:    0.04 | Dist:    0.69cm | Speed:   -4.1cm/s | Index: 4
+2025-11-26 15:01:23 - encoder_tracker - INFO - Count:      6 | Rot:    0.03 | Dist:    0.59cm | Speed:    0.0cm/s | Index: 4
+2025-11-26 15:01:24 - encoder_tracker - INFO - Count:      6 | Rot:    0.03 | Dist:    0.59cm | Speed:    0.0cm/s | Index: 4
+2025-11-26 15:01:25 - encoder_tracker - INFO - 
+2025-11-26 15:01:25 - encoder_tracker - INFO - ============================================================
+2025-11-26 15:01:25 - encoder_tracker - INFO - Session Ended - Final Statistics
+2025-11-26 15:01:25 - encoder_tracker - INFO - ============================================================
+2025-11-26 15:01:25 - encoder_tracker - INFO - Total Count: 5
+2025-11-26 15:01:25 - encoder_tracker - INFO - Total Rotations: 0.03
+2025-11-26 15:01:25 - encoder_tracker - INFO - Index Pulses: 4
+2025-11-26 15:01:25 - encoder_tracker - INFO - Total Distance: 0.49 cm (0.005 m)
+2025-11-26 15:01:25 - encoder_tracker - INFO - Total transitions: 1003
+2025-11-26 15:01:25 - encoder_tracker - INFO - A transitions: 497
+2025-11-26 15:01:25 - encoder_tracker - INFO - B transitions: 506
+2025-11-26 15:01:25 - encoder_tracker - INFO - Signal balance: 0.9% difference
+2025-11-26 15:01:25 - encoder_tracker - INFO - ============================================================
+2025-11-26 15:01:25 - encoder_tracker - INFO - Cleaning up GPIO
+2025-11-26 15:01:26 - encoder_tracker - INFO - GPIO cleaned up. Goodbye!

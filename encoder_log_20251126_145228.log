@@ -1,0 +1,52 @@
+2025-11-26 14:52:28 - encoder_tracker - INFO - Logging to file: encoder_log_20251126_145228.log
+2025-11-26 14:52:28 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:52:28 - encoder_tracker - INFO - RC Car Encoder Distance Tracker
+2025-11-26 14:52:28 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:52:28 - encoder_tracker - INFO - Configuration: PPR=48, Wheel=60mm
+2025-11-26 14:52:28 - encoder_tracker - INFO - GPIO Pins: A=17, B=27, Index=22
+2025-11-26 14:52:28 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:52:28 - encoder_tracker - INFO - Encoder initialized: PPR=48, Wheel=60mm, Index=GPIO22, Counts/Rev=192, mm/count=0.9817
+2025-11-26 14:52:28 - encoder_tracker - INFO - Starting tracking mode...
+2025-11-26 14:52:28 - encoder_tracker - INFO - Press Ctrl+C to exit
+2025-11-26 14:52:28 - encoder_tracker - INFO - 
+2025-11-26 14:52:29 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:52:30 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:52:31 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:52:32 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:52:33 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:52:34 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:52:35 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:52:36 - encoder_tracker - INFO - Stats - Count:    -44 | Rotations:   -0.23 | Distance:   -4.32cm | Speed:   -8.6 cm/s | Index: 0
+2025-11-26 14:52:37 - encoder_tracker - INFO - Stats - Count:   -251 | Rotations:   -1.31 | Distance:  -24.64cm | Speed:  -12.2 cm/s | Index: 0
+2025-11-26 14:52:38 - encoder_tracker - INFO - Stats - Count:   -251 | Rotations:   -1.31 | Distance:  -24.64cm | Speed:    0.0 cm/s | Index: 1
+2025-11-26 14:52:39 - encoder_tracker - INFO - Stats - Count:   -273 | Rotations:   -1.42 | Distance:  -26.80cm | Speed:   -4.3 cm/s | Index: 1
+2025-11-26 14:52:40 - encoder_tracker - INFO - Stats - Count:   -241 | Rotations:   -1.26 | Distance:  -23.66cm | Speed:    0.2 cm/s | Index: 1
+2025-11-26 14:52:41 - encoder_tracker - INFO - Stats - Count:   -240 | Rotations:   -1.25 | Distance:  -23.56cm | Speed:    0.0 cm/s | Index: 1
+2025-11-26 14:52:42 - encoder_tracker - INFO - Stats - Count:   -239 | Rotations:   -1.24 | Distance:  -23.46cm | Speed:    0.0 cm/s | Index: 1
+2025-11-26 14:52:43 - encoder_tracker - INFO - Stats - Count:   -239 | Rotations:   -1.24 | Distance:  -23.46cm | Speed:    0.0 cm/s | Index: 1
+2025-11-26 14:52:44 - encoder_tracker - INFO - Stats - Count:   -238 | Rotations:   -1.24 | Distance:  -23.37cm | Speed:    0.0 cm/s | Index: 1
+2025-11-26 14:52:45 - encoder_tracker - INFO - Stats - Count:   -238 | Rotations:   -1.24 | Distance:  -23.37cm | Speed:    0.0 cm/s | Index: 1
+2025-11-26 14:52:46 - encoder_tracker - INFO - Stats - Count:   -172 | Rotations:   -0.90 | Distance:  -16.89cm | Speed:   12.9 cm/s | Index: 1
+2025-11-26 14:52:47 - encoder_tracker - INFO - Stats - Count:   -157 | Rotations:   -0.82 | Distance:  -15.41cm | Speed:    0.0 cm/s | Index: 1
+2025-11-26 14:52:48 - encoder_tracker - INFO - Stats - Count:   -157 | Rotations:   -0.82 | Distance:  -15.41cm | Speed:    0.0 cm/s | Index: 2
+2025-11-26 14:52:49 - encoder_tracker - INFO - Stats - Count:   -184 | Rotations:   -0.96 | Distance:  -18.06cm | Speed:   -5.3 cm/s | Index: 2
+2025-11-26 14:52:50 - encoder_tracker - INFO - Stats - Count:   -330 | Rotations:   -1.72 | Distance:  -32.40cm | Speed:   -9.6 cm/s | Index: 2
+2025-11-26 14:52:51 - encoder_tracker - INFO - Stats - Count:   -290 | Rotations:   -1.51 | Distance:  -28.47cm | Speed:    0.4 cm/s | Index: 2
+2025-11-26 14:52:52 - encoder_tracker - INFO - Stats - Count:   -287 | Rotations:   -1.49 | Distance:  -28.18cm | Speed:    0.0 cm/s | Index: 2
+2025-11-26 14:52:53 - encoder_tracker - INFO - Stats - Count:   -287 | Rotations:   -1.49 | Distance:  -28.18cm | Speed:    0.0 cm/s | Index: 2
+2025-11-26 14:52:54 - encoder_tracker - INFO - Stats - Count:   -278 | Rotations:   -1.45 | Distance:  -27.29cm | Speed:    1.8 cm/s | Index: 2
+2025-11-26 14:52:55 - encoder_tracker - INFO - Stats - Count:   -431 | Rotations:   -2.24 | Distance:  -42.31cm | Speed:  -25.3 cm/s | Index: 2
+2025-11-26 14:52:56 - encoder_tracker - INFO - Stats - Count:   -538 | Rotations:   -2.80 | Distance:  -52.82cm | Speed:    4.3 cm/s | Index: 2
+2025-11-26 14:52:57 - encoder_tracker - INFO - Stats - Count:   -538 | Rotations:   -2.80 | Distance:  -52.82cm | Speed:    0.0 cm/s | Index: 2
+2025-11-26 14:52:57 - encoder_tracker - INFO - 
+2025-11-26 14:52:57 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:52:57 - encoder_tracker - INFO - Session Ended - Final Statistics
+2025-11-26 14:52:57 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:52:57 - encoder_tracker - INFO - Total Count: -538
+2025-11-26 14:52:57 - encoder_tracker - INFO - Total Rotations: -2.80
+2025-11-26 14:52:57 - encoder_tracker - INFO - Index Pulses: 2
+2025-11-26 14:52:57 - encoder_tracker - INFO - Total Distance: -52.82 cm (-0.528 m)
+2025-11-26 14:52:57 - encoder_tracker - INFO - Diagnostics - Error rate: 12.2%
+2025-11-26 14:52:57 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:52:57 - encoder_tracker - INFO - Cleaning up GPIO
+2025-11-26 14:52:57 - encoder_tracker - INFO - GPIO cleaned up. Goodbye!

@@ -1,0 +1,166 @@
+2025-11-26 14:39:50 - encoder_tracker - INFO - Logging to file: encoder_log_20251126_143950.log
+2025-11-26 14:39:50 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:39:50 - encoder_tracker - INFO - RC Car Encoder Distance Tracker
+2025-11-26 14:39:50 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:39:50 - encoder_tracker - INFO - Configuration: Wheel=60mm
+2025-11-26 14:39:50 - encoder_tracker - INFO - GPIO Pins: A=17, B=27, Index=22
+2025-11-26 14:39:50 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:39:50 - encoder_tracker - INFO - Encoder initialized: Wheel=60mm, Index=GPIO22
+2025-11-26 14:39:50 - encoder_tracker - INFO - 
+2025-11-26 14:39:50 - encoder_tracker - INFO - ⚠️  CALIBRATION REQUIRED
+2025-11-26 14:39:50 - encoder_tracker - INFO - This encoder needs to be calibrated before use.
+2025-11-26 14:39:50 - encoder_tracker - INFO - 
+2025-11-26 14:39:50 - encoder_tracker - INFO - Starting normal tracking mode...
+2025-11-26 14:39:50 - encoder_tracker - INFO - Press Ctrl+C to exit
+2025-11-26 14:39:50 - encoder_tracker - INFO - 
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:50 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:51 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - INFO - Stats - Count:     -1 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:52 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:53 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:54 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:55 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - INFO - 
+2025-11-26 14:39:56 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:39:56 - encoder_tracker - INFO - Session Ended - Final Statistics
+2025-11-26 14:39:56 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:39:56 - encoder_tracker - INFO - Total Count: 0
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - INFO - Total Rotations: 0.00
+2025-11-26 14:39:56 - encoder_tracker - INFO - Index Pulses: 0
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - WARNING - Encoder not calibrated! Run calibrate() first.
+2025-11-26 14:39:56 - encoder_tracker - INFO - Total Distance: 0.00 cm (0.000 m)
+2025-11-26 14:39:56 - encoder_tracker - INFO - Diagnostics - Error rate: 0.0%
+2025-11-26 14:39:56 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:39:56 - encoder_tracker - INFO - Cleaning up GPIO
+2025-11-26 14:39:56 - encoder_tracker - INFO - GPIO cleaned up. Goodbye!

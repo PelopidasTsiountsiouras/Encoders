@@ -1,0 +1,41 @@
+2025-11-26 14:26:54 - encoder_tracker - INFO - Logging to file: encoder_log_20251126_142654.log
+2025-11-26 14:26:54 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:26:54 - encoder_tracker - INFO - RC Car Encoder Distance Tracker
+2025-11-26 14:26:54 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:26:54 - encoder_tracker - INFO - Configuration: PPR=48, Wheel=60mm
+2025-11-26 14:26:54 - encoder_tracker - INFO - GPIO Pins: A=17, B=27, Index=22
+2025-11-26 14:26:54 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:26:54 - encoder_tracker - INFO - 
+2025-11-26 14:26:54 - encoder_tracker - INFO - Options:
+2025-11-26 14:26:54 - encoder_tracker - INFO -   1. Run diagnostic test (recommended first time)
+2025-11-26 14:26:54 - encoder_tracker - INFO -   2. Start normal tracking
+2025-11-26 14:26:54 - encoder_tracker - INFO - 
+2025-11-26 14:26:58 - encoder_tracker - INFO - Encoder initialized: PPR=48, Wheel=60mm, Index=GPIO22, Counts/Rev=192, mm/count=0.9817
+2025-11-26 14:26:58 - encoder_tracker - INFO - Starting normal tracking mode...
+2025-11-26 14:26:58 - encoder_tracker - INFO - Press Ctrl+C to exit
+2025-11-26 14:26:58 - encoder_tracker - INFO - 
+2025-11-26 14:26:59 - encoder_tracker - INFO - Stats - Count:      0 | Rotations:    0.00 | Distance:    0.00cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:27:00 - encoder_tracker - INFO - Stats - Count:     -1 | Rotations:   -0.01 | Distance:   -0.10cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:27:01 - encoder_tracker - INFO - Stats - Count:     -1 | Rotations:   -0.01 | Distance:   -0.10cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:27:02 - encoder_tracker - INFO - Stats - Count:     -1 | Rotations:   -0.01 | Distance:   -0.10cm | Speed:    0.0 cm/s | Index: 0
+2025-11-26 14:27:03 - encoder_tracker - INFO - Stats - Count:     91 | Rotations:    0.47 | Distance:    8.93cm | Speed:   17.9 cm/s | Index: 0
+2025-11-26 14:27:04 - encoder_tracker - INFO - Stats - Count:    159 | Rotations:    0.83 | Distance:   15.61cm | Speed:   13.9 cm/s | Index: 1
+2025-11-26 14:27:05 - encoder_tracker - INFO - Stats - Count:    317 | Rotations:    1.65 | Distance:   31.12cm | Speed:   14.9 cm/s | Index: 1
+2025-11-26 14:27:06 - encoder_tracker - INFO - Stats - Count:    724 | Rotations:    3.77 | Distance:   71.08cm | Speed:   33.0 cm/s | Index: 1
+2025-11-26 14:27:07 - encoder_tracker - INFO - Stats - Count:   1147 | Rotations:    5.97 | Distance:  112.61cm | Speed:   50.8 cm/s | Index: 1
+2025-11-26 14:27:08 - encoder_tracker - INFO - Stats - Count:   1509 | Rotations:    7.86 | Distance:  148.15cm | Speed:   35.7 cm/s | Index: 1
+2025-11-26 14:27:09 - encoder_tracker - INFO - Stats - Count:   1774 | Rotations:    9.24 | Distance:  174.16cm | Speed:   15.5 cm/s | Index: 1
+2025-11-26 14:27:10 - encoder_tracker - INFO - Stats - Count:   1774 | Rotations:    9.24 | Distance:  174.16cm | Speed:    0.0 cm/s | Index: 1
+2025-11-26 14:27:11 - encoder_tracker - INFO - Stats - Count:   1750 | Rotations:    9.11 | Distance:  171.81cm | Speed:   -0.6 cm/s | Index: 1
+2025-11-26 14:27:12 - encoder_tracker - INFO - 
+2025-11-26 14:27:12 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:27:12 - encoder_tracker - INFO - Session Ended - Final Statistics
+2025-11-26 14:27:12 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:27:12 - encoder_tracker - INFO - Total Count: 1749
+2025-11-26 14:27:12 - encoder_tracker - INFO - Total Rotations: 9.11
+2025-11-26 14:27:12 - encoder_tracker - INFO - Index Pulses: 1
+2025-11-26 14:27:12 - encoder_tracker - INFO - Total Distance: 171.71 cm (1.717 m)
+2025-11-26 14:27:12 - encoder_tracker - INFO - Diagnostics - Error rate: 25.8%
+2025-11-26 14:27:12 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:27:12 - encoder_tracker - INFO - Cleaning up GPIO
+2025-11-26 14:27:12 - encoder_tracker - INFO - GPIO cleaned up. Goodbye!

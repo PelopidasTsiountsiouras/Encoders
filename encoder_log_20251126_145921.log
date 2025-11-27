@@ -1,0 +1,33 @@
+2025-11-26 14:59:21 - encoder_tracker - INFO - Logging to file: encoder_log_20251126_145921.log
+2025-11-26 14:59:21 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:59:21 - encoder_tracker - INFO - RC Car Encoder Distance Tracker - DEBUG VERSION
+2025-11-26 14:59:21 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:59:21 - encoder_tracker - INFO - Configuration: PPR=48, Wheel=60mm
+2025-11-26 14:59:21 - encoder_tracker - INFO - GPIO Pins: A=17, B=27, Index=22
+2025-11-26 14:59:21 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:59:21 - encoder_tracker - INFO - 
+2025-11-26 14:59:21 - encoder_tracker - INFO - Choose mode:
+2025-11-26 14:59:21 - encoder_tracker - INFO -   1. Raw signal test (watch pin changes)
+2025-11-26 14:59:21 - encoder_tracker - INFO -   2. Normal tracking
+2025-11-26 14:59:21 - encoder_tracker - INFO - 
+2025-11-26 14:59:24 - encoder_tracker - INFO - Encoder initialized: PPR=48, Wheel=60mm, Index=GPIO22, Counts/Rev=192, mm/count=0.9817
+2025-11-26 14:59:24 - encoder_tracker - INFO - 
+2025-11-26 14:59:24 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:59:24 - encoder_tracker - INFO - RAW SIGNAL TEST MODE
+2025-11-26 14:59:24 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:59:24 - encoder_tracker - INFO - Rotate the wheel slowly and watch for signal changes
+2025-11-26 14:59:24 - encoder_tracker - INFO - Press Ctrl+C to exit test mode
+2025-11-26 14:59:24 - encoder_tracker - INFO - 
+2025-11-26 14:59:24 - encoder_tracker - INFO - Signal change: A=0, B=1, Index=0
+2025-11-26 14:59:31 - encoder_tracker - INFO - Signal change: A=1, B=0, Index=0
+2025-11-26 14:59:31 - encoder_tracker - INFO - Signal change: A=0, B=0, Index=0
+2025-11-26 14:59:32 - encoder_tracker - INFO - Signal change: A=0, B=1, Index=0
+2025-11-26 14:59:32 - encoder_tracker - INFO - Signal change: A=1, B=1, Index=0
+2025-11-26 14:59:32 - encoder_tracker - INFO - Signal change: A=0, B=0, Index=0
+2025-11-26 14:59:32 - encoder_tracker - INFO - Signal change: A=1, B=0, Index=0
+2025-11-26 14:59:32 - encoder_tracker - INFO - Signal change: A=0, B=0, Index=0
+2025-11-26 14:59:32 - encoder_tracker - INFO - Signal change: A=0, B=1, Index=0
+2025-11-26 14:59:34 - encoder_tracker - INFO - Signal change: A=1, B=0, Index=0
+2025-11-26 14:59:34 - encoder_tracker - INFO - ============================================================
+2025-11-26 14:59:34 - encoder_tracker - INFO - 
+2025-11-26 14:59:34 - encoder_tracker - INFO - Cleaning up GPIO
